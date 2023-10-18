@@ -1,2 +1,6 @@
-# webpage
-webpage using html and css
+# projects
+*webpage
+*weather app
+#amazon replica 
+Build using HMTL and CSS
+
